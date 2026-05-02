@@ -1,6 +1,6 @@
 # TeamManager
 
-### [🚀Live Demo ↗](https://team-task-manager-production-afb8.up.railway.app)
+### [🚀Live Demo ↗](https://team-task-manager-production-5bf2.up.railway.app/)
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=111827)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
